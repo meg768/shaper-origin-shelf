@@ -41,8 +41,8 @@ module make() {
     // Provar 7.9
     // Funkar inte. 7.8 är bättre
     rim(diameter = 7.8, size = 15, height=6, depth=10, translate=[0, 0, 0]);
-    rim(diameter = 7.8, size = 15, height=6, depth=10, translate=[0, 30, 0]);
-    rim(diameter = 7.8, size = 15, height=6, depth=10, translate=[0, 60, 0]);
+    //rim(diameter = 7.8, size = 15, height=6, depth=10, translate=[0, 30, 0]);
+    //rim(diameter = 7.8, size = 15, height=6, depth=10, translate=[0, 60, 0]);
 }  
 
 
