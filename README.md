@@ -1,6 +1,6 @@
 # Shaper Origin Shelf
 
-SVGs, Affinity files, and 3D-printed benchdogs for a small Shaper Origin shelf project.  
+SVGs, Affinity files, and 3D-printed benchdogs for a small Shaper Origin shelf.  
 
 ## Outline
 
