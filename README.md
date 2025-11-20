@@ -4,7 +4,7 @@ SVGs, Affinity files, and 3D-printed benchdogs for a small Shaper Origin shelf.
 
 ## Outline
 
-The shelf measures 420x300 mm and contains 20 mm holes compatible with the Festool MFT. OpenSCAD drawings are available for the "stoppers". This makes it possible to scan once and use your workspace over and over, no need to scan again.
+The shelf measures 420x300 mm and contains 20 mm holes compatible with the Festool MFT. OpenSCAD drawings are available for the "stoppers" and the "underdog". This makes it possible to scan once and use your workspace over and over, no need to scan again.
 
 ### The Shelf
 
